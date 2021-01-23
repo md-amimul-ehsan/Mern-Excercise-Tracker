@@ -3,13 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Initial Setup
-npx create-react-app mern-exercise-tracker \
+npx create-react-app mern-exercise-tracker
 
 ### Dependencies
 npm install axios \
 npm install react-datepicker \
 npm install react-router-dom \
-npm install bootstrap \
+npm install bootstrap
 
 ### Dependencies (In "backend" folder)
 npm init -y
