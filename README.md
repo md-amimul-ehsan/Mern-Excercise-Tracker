@@ -12,8 +12,8 @@ npm install react-router-dom \
 npm install bootstrap
 
 ### Dependencies (In "backend" folder)
-npm init -y
-npm install express cors mongoose dotenv
+npm init -y \
+npm install express cors mongoose dotenv \
 npm install -g nodemon
 
 ## Available Scripts
